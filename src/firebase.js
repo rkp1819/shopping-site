@@ -1,14 +1,13 @@
 import firebase from "firebase";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCnhvk4CdNGa-XxKJx4-_6mSjyAMz3hxGM",
-  authDomain: "shopping-site-3f316.firebaseapp.com",
-  projectId: "shopping-site-3f316",
-  storageBucket: "shopping-site-3f316.appspot.com",
-  messagingSenderId: "731015808566",
-  appId: "1:731015808566:web:f5f41ad3e9e857ebe93a97",
-  measurementId: "G-8KLXS8KFET",
+  apiKey: "AIzaSyC3PfbhKjkAiAbpHY5dwGQE3NZaq9naRd4",
+  authDomain: "shopping-site-101.firebaseapp.com",
+  projectId: "shopping-site-101",
+  storageBucket: "shopping-site-101.appspot.com",
+  messagingSenderId: "87953409019",
+  appId: "1:87953409019:web:e447000748bfc43b98015e",
+  measurementId: "G-VW60J24GL3",
 };
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
